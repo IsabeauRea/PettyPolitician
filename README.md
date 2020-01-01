@@ -1,5 +1,5 @@
 # PettyPolitician
-Repository for the PettyPolitician project
+Welcome to the repository for the PettyPolitician project!
 
 # About
 
